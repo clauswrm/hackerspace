@@ -3,7 +3,7 @@
 
 2 - open git bash and clone repository:
 
->git clone https://github.com/hakontro/slackbot.git (alternatively just download the files)
+>git clone https://github.com/hakontro/hackerspace.git (alternatively just download the files)
 
 3 - Python 3.5 or 3.6 x64 bit: https://www.python.org/downloads/release/python-365/
 
